@@ -1,6 +1,7 @@
 # hexo-theme-even
 
-A super simple theme for Hexo 
+A super simple theme for Hexo
+根据自己的喜好，重新定义了一些样式。
 
 ![even](http://ww4.sinaimg.cn/large/006tNbRwjw1f6l0ryrho2j31kw0yb7a6.jpg)
 
