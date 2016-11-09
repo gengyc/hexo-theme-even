@@ -14,8 +14,7 @@ Check out Even theme in live : [demo](http://www.ahonn.me)
 
 ## Installation
 ```
-$ hexo init blog
-$ cd blog
+$ hexo init 
 $ npm install
 $ npm install --save hexo-renderer-jade hexo-renderer-scss hexo-generator-feed hexo-generator-sitemap hexo-browsersync
 $ cd themes/
